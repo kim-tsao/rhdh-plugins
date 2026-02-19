@@ -64,6 +64,8 @@ readonly "modulePage.phases.publishInstructions": string;
 readonly "modulePage.phases.runPublish": string;
 readonly "modulePage.phases.republishInstructions": string;
 readonly "modulePage.phases.rerunPublish": string;
+readonly "modulePage.phases.viewLog": string;
+readonly "modulePage.phases.hideLog": string;
 readonly "project.id": string;
 readonly "project.description": string;
 readonly "project.abbreviation": string;
